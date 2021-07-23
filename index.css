@@ -1,0 +1,24 @@
+.card {
+    width: 500px;
+    height: 500px;
+    text-align: center;
+}
+.title {
+    height: 50px;
+    background-color: red;
+    color: white;
+    font-size: 30px;
+}
+.content {
+    height: 100px;
+    background-color: turquoise;
+}
+.text {
+    height: 50px;
+    padding-top: 20px;
+}
+.btn {
+    background-color: green;
+    color: white;
+    border-radius: 10%;
+}
